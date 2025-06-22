@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: House-Price-Prediction
+Version: 0.0.1
+Author: dinesh jangir
+Author-email: dineshjangir@gmail.com
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
